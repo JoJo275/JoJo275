@@ -12,7 +12,7 @@ I'm learning Python packaging, linting, and CI by building real project template
 
 ### Status
 
-Learning project, actively maintained.
+Learning project (best-effort maintenance).
 
 ### Contact
 
