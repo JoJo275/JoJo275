@@ -1,18 +1,19 @@
 ## Hi, I'm Joseph (JoJo275) 👋
 
-I’m building a CI-first Python project template and learning modern repo workflows by shipping in public.
+I'm learning Python packaging, linting, and CI by building real project templates.
 
-### What you'll find here
-- A reusable Python boilerplate with opinionated structure + automation
-- Small experiments as I learn packaging, testing, and CI/CD (released when stable)
+**Why this exists:** Most starter templates skip packaging + CI details. I made this to fill that gap while learning.
 
-### Projects
-- [**simple-python-boilerplate**](https://github.com/JoJo275/simple-python-boilerplate) — ready-to-fork Python template (src/ layout, lint/format, tests, CI, docs)
-- More projects coming soon as I ship them.
+### Main Project
+
+[**simple-python-boilerplate**](https://github.com/JoJo275/simple-python-boilerplate) — ready-to-fork Python template with src/ layout, linting, tests, and CI.
+
+**Start here:** [README → Quickstart](https://github.com/JoJo275/simple-python-boilerplate#quickstart)
+
+### Status
+
+Learning project, actively maintained.
 
 ### Contact
-- Best: Issues (bugs) or Discussions (questions)
 
-### Contact
-- Best: [Issues](https://github.com/JoJo275/simple-python-boilerplate/issues) or [Discussions](https://github.com/JoJo275/simple-python-boilerplate/discussions)
-- If needed: see my public email on my GitHub profile
+[Issues](https://github.com/JoJo275/simple-python-boilerplate/issues) (bugs) · [Discussions](https://github.com/JoJo275/simple-python-boilerplate/discussions) (questions)
