@@ -6,7 +6,7 @@ I'm learning Python packaging, linting, and CI by building real project template
 
 ### Main Project
 
-[**simple-python-boilerplate**](https://github.com/JoJo275/simple-python-boilerplate) — ready-to-fork Python template with src/ layout, linting, tests, and CI.
+[**simple-python-boilerplate**](https://github.com/JoJo275/simple-python-boilerplate) — Python template with src/ layout, linting, tests, and CI. *(WIP — not ready to fork yet)*
 
 **Start here:** [README → Quickstart](https://github.com/JoJo275/simple-python-boilerplate#quickstart)
 
