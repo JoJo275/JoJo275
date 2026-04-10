@@ -1,37 +1,37 @@
 # Hi, I'm Joseph (JoJo275) 👋
 
-I build practical Python project templates focused on packaging, linting, and CI — the parts most starter repos skip.
+I build practical Python tools and project templates focused on packaging, linting, CI, and developer workflows — the parts most starter repos skip.
 
 ---
 
 ### 🔧 Tech & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-D7FF64?style=flat&logo=ruff&logoColor=black)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Hatch](https://img.shields.io/badge/Hatch-4051B5?style=flat&logo=hatch&logoColor=white)
 
 ---
 
-### 📦 Projects
+### 📦 Featured Project
 
-| Project | Description | Status |
-| --- | --- | --- |
-| [**simple-python-boilerplate**](https://github.com/JoJo275/simple-python-boilerplate) | Python template with `src/` layout, linting, tests, and CI | ✅ Complete |
+[**simple-python-boilerplate**](https://github.com/JoJo275/simple-python-boilerplate) — Python template with `src/` layout, linting, tests, CI workflows, and docs — designed for easy forking.
 
-> **New here?** Check the [Quickstart guide](https://github.com/JoJo275/simple-python-boilerplate#quickstart) to get started.
+> **Up next:** FastAPI REST API · SaaS app
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoJo275&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoJo275&layout=compact&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=JoJo275&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📬 Contact
+### 📬 Get in Touch
 
-[Issues](https://github.com/JoJo275/simple-python-boilerplate/issues) (bugs) · [Discussions](https://github.com/JoJo275/simple-python-boilerplate/discussions) (questions)
+Have a question or found a bug? Open an [issue](https://github.com/JoJo275/simple-python-boilerplate/issues) or start a [discussion](https://github.com/JoJo275/simple-python-boilerplate/discussions).
